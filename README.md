@@ -1,5 +1,5 @@
 # SparksFoundation
-This was a guided course where I was given tasks of machine learning which helped me become familiar with machine learning. 
+This was a guided course done during April 2020 where I was given tasks of machine learning which helped me become familiar with machine learning. 
 
 ## regression.ipynb:
 This Python script performs a simple linear regression analysis on student study hours and their corresponding scores. It visualizes the data, trains a regression model, evaluates its accuracy using R^2 score, and predicts scores for a given number of study hours. The model helps in understanding the relationship between study time and performance.
